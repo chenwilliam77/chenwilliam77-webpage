@@ -1,5 +1,5 @@
 ---
-title: "
+title: "Should Monetary Policy Target Financial Stability?"
 authors:
 - admin
 - Gregory Phelan
