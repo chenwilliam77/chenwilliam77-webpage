@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: William Chen is a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York.
-His research interest include macroeconomics, finance, and computational macroeconomics. *Views expressed are my own*.
+bio: William Chen is a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York. His research interest include macroeconomics, finance, and computational macroeconomics. *Views expressed are my own*.
 
 interests:
   - Macroeconomics
