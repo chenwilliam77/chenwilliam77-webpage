@@ -8,7 +8,7 @@ tags:
 - Nonlinear Stochastic General Equilibrium Models
 - Macrofinance
 
-date: "2020-09-12T00:00:00Z"
+date: "2020-09-10T00:00:00Z"
 
 links:
 - icon: github
