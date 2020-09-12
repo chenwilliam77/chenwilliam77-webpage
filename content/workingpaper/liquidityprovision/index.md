@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Provision and Financial Stability" (draft soon)
+title: "Liquidity Provision and Financial Stability (draft soon)"
 authors:
 - admin
 - Greg Phelan
