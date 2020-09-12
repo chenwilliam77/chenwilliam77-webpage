@@ -28,6 +28,10 @@ tags:
 - Infinite-energy solutions
 
 links:
+- name: "arXiv"
+  url: "https://arxiv.org/abs/1605.08965"
+- name: "PDF"
+  url: https://arxiv.org/pdf/1605.08965.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
