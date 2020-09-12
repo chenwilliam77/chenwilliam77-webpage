@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: William Chen is a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York. His research interest include macroeconomics, finance, and computational macroeconomics. *Views expressed are my own*.
+bio: I am a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York. My research interest include macroeconomics, finance, and computational macroeconomics. *Views expressed are my own*.
 
 interests:
   - Macroeconomics
@@ -26,9 +26,9 @@ interests:
   - Computational Macroeconomics
 
 education:
-  courses:
-  - course: BAs in Economics and Mathematics
-    institution: Williams College
+  institutions:
+  - institution: Williams College
+    course: B.A. in Economics and B.A. in Mathematics (*summa cum laude* with highest honors, Phi Beta Kappa)
     year: 2019
 
 # Social/Academic Networking
@@ -64,8 +64,12 @@ user_groups:
 - Visitors
 ---
 
-William Chen is a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York.
-His research focuses on the determinants of business cycles, such as the role of the financial system
-in the propagation of macroeconomic shocks. He also develops new computational methods
+I am a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York.
+My research focuses on the determinants of business cycles, such as the role of the financial system
+in the propagation of macroeconomic shocks. I also develop new computational methods
 to expand the range of problems macroeconomists can study, such as models with
 heterogeneous agents and/or nonlinearities.
+
+I is am a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions. 
+
+*All views expressed are my own, and do not reflect those of the Federal Reserve Bank of New York nor Federal Reserve System.*
