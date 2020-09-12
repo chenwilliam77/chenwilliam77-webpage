@@ -70,6 +70,6 @@ in the propagation of macroeconomic shocks. I also develop new computational met
 to expand the range of problems macroeconomists can study, such as models with
 heterogeneous agents and/or nonlinearities.
 
-I is am a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions. 
+I am a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions.
 
 *All views expressed are my own, and do not reflect those of the Federal Reserve Bank of New York nor Federal Reserve System.*
