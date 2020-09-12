@@ -23,8 +23,6 @@ url_slides: ""
 url_video: ""
 ---
 
-[![Build Status](https://travis-ci.com/FRBNY-DSGE/ModelConstructors.jl.svg?branch=master)](https://travis-ci.com/FRBNY-DSGE/ModelConstructors.jl) [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://frbny-dsge.github.io/ModelConstructors.jl/latest)
-
 This package contains the building blocks of model objects, such as `Parameter`, `Observable`, `Setting`, and `State` types. You may define any custom model, so long as it has parameters. The model object is used in both [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) and [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl).
 
 See `/docs/examples` for examples of how to construct your custom model, then use [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl) to estimate it (available for any type of model) and [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) to construct forecasts, shock decompositions, impulse responses, etc. (available for DSGE models).
