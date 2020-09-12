@@ -3,7 +3,7 @@ title: "Liquidity Provision and Financial Stability" (draft soon)
 authors:
 - admin
 - Greg Phelan
-date: "2020-08-02T00:00:00Z"
+date: "2020-04-02T00:00:00Z"
 # doi: "https://doi.org/10.1016/j.jde.2018.04.009"
 
 # Publication type.
@@ -17,7 +17,7 @@ publication_types: ["3"]
 # publication_short: ""
 
 abstract:
-When banks’ key characteristic is provision of liquidity through their liabilities, with fi- nancial frictions the banking sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Subsidizing bank dividends improves welfare by encouraging earlier payout and decreasing aggregate equity in the financial sec- tor. This policy increases the likelihood that banks provide more liquidity and improves the stability of the economy, even though asset prices fall.
+When banks’ key characteristic is provision of liquidity through their liabilities, with fi- nancial frictions the banking sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Subsidizing bank dividends improves welfare by encouraging earlier payout and decreasing aggregate equity in the financial sector. This policy increases the likelihood that banks provide more liquidity and improves the stability of the economy, even though asset prices fall.
 # Summary. An optional shortened abstract.
 #summary:
 

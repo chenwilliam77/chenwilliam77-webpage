@@ -3,7 +3,7 @@ title: "International Coordination of Macroprudential Policies with Capital Flow
 authors:
 - admin
 - Gregory Phelan
-date: "2018-11-08T00:00:00Z"
+date: "2020-06-02T00:00:00Z"
 # doi: "https://doi.org/10.1016/j.jde.2018.04.009"
 
 # Publication type.
@@ -16,12 +16,7 @@ publication_types: ["3"]
 # publication: "*Journal of Differential Equations*"
 # publication_short: ""
 
-abstract: We consider a two-country macro model in which countries have limited ability to issue
-state-contingent contracts in international markets. Both countries have incentives to stabilize
-their economy by using macroprudential policy (limiting leverage or capital inflows), but the
-emerging economy depends on the advanced economy to bear global risk. Lack of coordination hurts developing economies but benefits advanced economies. Financially developed
-economies are unwilling to intermediate global risk, which means bearing systemic risk, preferring financial stability over credit flows. Advanced economies prefer tighter macroprudential policies than would occur with coordination, giving them greater bargaining power when
-negotiating international agreements.
+abstract: We consider a two-country macro model in which countries have limited ability to issue state-contingent contracts in international markets. Both countries have incentives to stabilize their economy by using macroprudential policy (limiting leverage or capital inflows), but the emerging economy depends on the advanced economy to bear global risk. Lack of coordination hurts developing economies but benefits advanced economies. Financially developed economies are unwilling to intermediate global risk, which means bearing systemic risk, preferring financial stability over credit flows. Advanced economies prefer tighter macroprudential policies than would occur with coordination, giving them greater bargaining power when negotiating international agreements.
 # Summary. An optional shortened abstract.
 #summary:
 

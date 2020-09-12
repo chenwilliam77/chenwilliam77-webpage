@@ -16,7 +16,7 @@ publication_types: ["3"]
 # publication: "*Journal of Differential Equations*"
 # publication_short: ""
 
-abstract: We theoretically investigate the state-dependent effects of monetary policy on aggregate stability. In the model, banks borrow using deposits and invest in productive projects, and monetary policy affects risk-premia. Because banks do not actively issue equity, aggregate outcomes depend on the level of equity in the financial sector and equilibrium is inefficient. Monetary policy can improve household welfare by affecting banksâ€™ leverage decisions and the rate of bank equity growth. A Fed Put is ex-ante stabilizing, decreasing volatility and the likelihood of crises; it does not lead to excessive leverage in good times but enables higher leverage in bad times.
+abstract: We theoretically investigate the state-dependent effects of monetary policy on aggregate stability. In the model, banks borrow using deposits and invest in productive projects, and monetary policy affects risk-premia. Because banks do not actively issue equity, aggregate outcomes depend on the level of equity in the financial sector and equilibrium is inefficient. Monetary policy can improve household welfare by affecting banks' leverage decisions and the rate of bank equity growth. A Fed Put is ex-ante stabilizing, decreasing volatility and the likelihood of crises; it does not lead to excessive leverage in good times but enables higher leverage in bad times.
 # Summary. An optional shortened abstract.
 #summary:
 
