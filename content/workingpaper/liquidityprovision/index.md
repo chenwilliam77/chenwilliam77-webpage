@@ -16,10 +16,9 @@ publication_types: ["3"]
 # publication: "*Journal of Differential Equations*"
 # publication_short: ""
 
-abstract:
-When banks’ key characteristic is provision of liquidity through their liabilities, with fi- nancial frictions the banking sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Subsidizing bank dividends improves welfare by encouraging earlier payout and decreasing aggregate equity in the financial sector. This policy increases the likelihood that banks provide more liquidity and improves the stability of the economy, even though asset prices fall.
+abstract: When banks’ key characteristic is provision of liquidity through their liabilities, with fi- nancial frictions the banking sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Subsidizing bank dividends improves welfare by encouraging earlier payout and decreasing aggregate equity in the financial sector. This policy increases the likelihood that banks provide more liquidity and improves the stability of the economy, even though asset prices fall.
 # Summary. An optional shortened abstract.
-#summary:
+# summary:
 
 tags:
 
