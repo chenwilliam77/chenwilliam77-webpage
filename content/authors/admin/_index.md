@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Williams College
-    institution: B.A. in Economics and B.A. in Mathematics (summa cum laude with highest honors, Phi Beta Kappa)
+    institution: B.A. in Economics and in Mathematics (summa cum laude with highest honors, Phi Beta Kappa)
     year: 2019
 
 # Social/Academic Networking
