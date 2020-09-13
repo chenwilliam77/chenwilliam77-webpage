@@ -26,9 +26,9 @@ interests:
   - Computational Macroeconomics
 
 education:
-  institutions:
-  - institution: Williams College
-    course: B.A. in Economics and B.A. in Mathematics (*summa cum laude* with highest honors, Phi Beta Kappa)
+  courses:
+  - course: Williams College
+    institution: B.A. in Economics and B.A. in Mathematics (*summa cum laude* with highest honors, Phi Beta Kappa)
     year: 2019
 
 # Social/Academic Networking
