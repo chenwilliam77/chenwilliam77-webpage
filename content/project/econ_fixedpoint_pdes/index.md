@@ -1,6 +1,6 @@
 ---
 title: EconFixedPointPDEs.jl
-summary: A Julia implementation of the sequential Monte Carlo algorithm for approximation of posterior distributions.
+summary: A Julia package for solving nonlinear continuous-time economic models with endogenous jump diffusions.
 
 tags:
 - Continuous-Time Methods
