@@ -1,5 +1,5 @@
 ---
-title: Model Constructors
+title: ModelConstructors.jl
 summary: A Julia package to build custom model types for estimation.
 
 tags:

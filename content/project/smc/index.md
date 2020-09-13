@@ -1,5 +1,5 @@
 ---
-title: Sequential Monte Carlo
+title: SMC.jl
 summary: A Julia implementation of the sequential Monte Carlo algorithm for approximation of posterior distributions.
 
 tags:
