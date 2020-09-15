@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York. My research focuses on the determinants of business cycles, such as the role of the financial system in the propagation of macroeconomic shocks. I investigate these problems using both theoretical and structural approaches. I also develop new computational methods to expand the range of problems macroeconomists can study, such as models with heterogeneous agents and/or nonlinearities.
+I am a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York. My research focuses on the determinants of business cycles, such as the role of the financial system in the propagation of macroeconomic shocks, and the capacity of monetary and macroprudential policies to address inefficient recessions. I investigate these problems using both theoretical and structural approaches. I also develop new computational methods to expand the range of problems macroeconomists can study, such as models with heterogeneous agents and/or nonlinearities.
 
 I am a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions. Independently, I develop [RiskAdjustedLinearizations.jl](https://github.com/chenwilliam77/RiskAdjustedLinearizations.jl), which implements linearizes dynamic economic models around the stochastic steady state.
 
