@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York. My research interest include macroeconomics, finance, economic theory, and computational macroeconomics. *Views expressed are my own*.
+bio: I am a Senior Research Analyst on the DSGE Team at the Federal Reserve Bank of New York. My research interests include macroeconomics, finance, economic theory, and computational macroeconomics. *Views expressed are my own*.
 
 interests:
   - Macroeconomics
