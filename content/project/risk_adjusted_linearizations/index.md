@@ -22,11 +22,10 @@ url_video: ""
 ---
 
 # RiskAdjustedLinearizations.jl
-This package implements [Lopez et al. (2018) "Risk-Adjusted Linearizations of Dynamic Equilibrium Models"](https://ideas.repec.org/p/bfr/banfra/702.html) in Julia. The [original companion code](https://github.com/fvazquezgrande/gen_affine) for the paper implements the method using MATLAB's Symbolic Math Toolbox. RiskAdjustedLinearizations.jl takes advantage of Julia's speed and flexibility so that the method can be used for solving and estimating large-scale Dynamic Stochastic General Equilibrium (DSGE) models.
 
-Timing tests indicate that this package's speed is significantly faster than the original MATLAB code.
-As examples, run the [wac_disaster.jl](https://github.com/chenwilliam77/RiskAdjustedLinearizations.jl/tree/main/examples/matlab_timing_test/wac_disaster.jl) or [rbc_cc.jl](https://github.com/chenwilliam77/RiskAdjustedLinearizations.jl/tree/main/examples/matlab_timing_test/rbc_cc.jl) scripts, which assess how long it takes to calculate a risk-adjusted linearization using the two numerical algorithms
-implemented by this package and by the original authors.
+This package implements [Lopez et al. (2018) "Risk-Adjusted Linearizations of Dynamic Equilibrium Models"](https://ideas.repec.org/p/bfr/banfra/702.html) in Julia. The [original companion code](https://github.com/fvazquezgrande/gen_affine) for the paper implements the method using MATLAB's Symbolic Math Toolbox. RiskAdjustedLinearizations.jl takes advantage of Julia's speed and and flexibility so that the method can be used for solving and estimating large-scale Dynamic Stochatic General Equilibrium (DSGE) models. Initial timing tests (see [examples/wachter_disaster_risk/example_wachter.jl](https://github.com/chenwilliam77/RiskAdjustedLinearizations/tree/master/examples/wachter_disaster_risk/example_wachter.jl)) indicate that this package is two orders of magnitude faster than the MATLAB implementation provided by Lopez et al. (2018).
+
+
 
 ## Installation
 
