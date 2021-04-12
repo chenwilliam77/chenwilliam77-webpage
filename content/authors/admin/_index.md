@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Analyst, <br/> Incoming Ph.D. Student in Economics
+role: Senior Research Analyst, <br/> Incoming Ph.D. Student in Economics at MIT
 
 # Organizations/Affiliations
 organizations:
-- name: Federal Reserve Bank of New York, <br/> Massachusetts Institute of Technology (MIT)
+- name: Federal Reserve Bank of New York
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
