@@ -28,6 +28,11 @@ interests:
 
 education:
   courses:
+  - course: Massachusetts Institute of Technology (MIT)
+    institution: Ph.D. in Economicsn
+    year: 2026 (expected)
+    institution: B.A. in Economics and in Mathematics (summa cum laude with highest honors, Phi Beta Kappa)
+    year: 2019
   - course: Williams College
     institution: B.A. in Economics and in Mathematics (summa cum laude with highest honors, Phi Beta Kappa)
     year: 2019
