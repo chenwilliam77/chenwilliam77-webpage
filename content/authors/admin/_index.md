@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Senior Research Analyst on the DSGE Team at the [Federal Reserve Bank of New York](https://www.newyorkfed.org/research). Starting in Fall 2021, I will be an Economics Ph.D. student at [MIT](https://economics.mit.edu/). My research interests include macroeconomics, finance, and computational macroeconomics. Within these fields, I am particularly interested in business cycle theory, financial crises, and macro-labor. *Views expressed are my own*. Pronouns\: he/him
+bio: I am a Senior Research Analyst on the DSGE Team at the [Federal Reserve Bank of New York](https://www.newyorkfed.org/research). Starting in Fall 2021, I will be an Economics Ph.D. student at [MIT](https://economics.mit.edu/). My research interests include macroeconomics, finance, and computational macroeconomics. Within these fields, I am particularly interested in business cycle theory, financial crises, and macro-labor. *Views expressed are my own*. Pronouns : he/him
 
 interests:
   - Macroeconomics
