@@ -23,7 +23,7 @@ bio: I am a Senior Research Analyst on the DSGE Team at the [Federal Reserve Ban
 interests:
   - Macroeconomics
   - Finance
-  - Economic Theory
+  - Macro-Labor
   - Computational Macroeconomics
 
 education:
