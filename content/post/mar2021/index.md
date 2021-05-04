@@ -8,7 +8,7 @@ authors:
 - Alissa Johnson
 - Andrea Tambalotti
 
-date: "2021-03-31:00:00Z"
+date: "2021-03-31T00:00:00Z"
 
 featured: true
 
