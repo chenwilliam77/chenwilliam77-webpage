@@ -13,7 +13,7 @@ doi: "https://doi.org/10.1016/j.jde.2018.04.009"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Differential Equations*"
+publication: "*Journal of Differential Equations*, 265 (9): 3841-57"
 publication_short: ""
 
 abstract: We revisit a family of infinite-energy solutions of the 3D incompressible [Euler equations](https://www.sciencedirect.com/topics/mathematics/euler-equation) proposed by Gibbon et al. [9] and shown to blowup in finite time by Constantin [6]. By adding a damping term to the momentum equation we examine how the [damping coefficient](https://www.sciencedirect.com/topics/mathematics/damping-coefficient) can arrest this blowup. Further, we show that similar infinite-energy solutions of the inviscid 3D Boussinesq system with damping can develop a singularity in finite time as long as the damping effects are insufficient to arrest the (undamped) 3D Euler blowup in the associated damped 3D Euler system.

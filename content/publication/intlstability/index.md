@@ -14,7 +14,7 @@ publication_types: ["2"]
 # featured: true
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Financial Stability***, conditionally accepted"
+publication: "*Journal of Financial Stability*, conditionally accepted"
 publication_short: ""
 
 abstract: Lack of coordination for prudential regulation hurts developing economies but benefits ad- vanced economies. We consider a two-country macro model in which countries have limited ability to issue state-contingent contracts in international markets, and equilibrium is con- strained inefficient. Both countries have incentives to stabilize their economy by using pru- dential limits, but the emerging economy depends on the advanced economy to bear global risk. Intermediating global risk requires bearing systemic risk, which financially developed economies are unwilling to bear, preferring financial stability over credit flows. Advanced economies prefer tighter prudential limits than would occur with coordination, to the harm of emerging economies.
