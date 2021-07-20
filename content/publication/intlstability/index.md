@@ -3,31 +3,31 @@ title: "International Coordination of Macroprudential Policies with Capital Flow
 authors:
 - admin
 - Gregory Phelan
-date: "2020-06-02T00:00:00Z"
+date: "2021-07-20T00:00:00Z"
 # doi: "https://doi.org/10.1016/j.jde.2018.04.009"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-featured: true
+publication_types: ["2"]
+# featured: true
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Differential Equations*"
-# publication_short: ""
+publication: "*Journal of Financial Stability*, conditionally accepted"
+publication_short: ""
 
-abstract: We consider a two-country macro model in which countries have limited ability to issue state-contingent contracts in international markets. Both countries have incentives to stabilize their economy by using macroprudential policy (limiting leverage or capital inflows), but the emerging economy depends on the advanced economy to bear global risk. Lack of coordination hurts developing economies but benefits advanced economies. Financially developed economies are unwilling to intermediate global risk, which means bearing systemic risk, preferring financial stability over credit flows. Advanced economies prefer tighter macroprudential policies than would occur with coordination, giving them greater bargaining power when negotiating international agreements.
+abstract: Lack of coordination for prudential regulation hurts developing economies but benefits ad- vanced economies. We consider a two-country macro model in which countries have limited ability to issue state-contingent contracts in international markets, and equilibrium is con- strained inefficient. Both countries have incentives to stabilize their economy by using pru- dential limits, but the emerging economy depends on the advanced economy to bear global risk. Intermediating global risk requires bearing systemic risk, which financially developed economies are unwilling to bear, preferring financial stability over credit flows. Advanced economies prefer tighter prudential limits than would occur with coordination, to the harm of emerging economies.
 # Summary. An optional shortened abstract.
 #summary:
 
 tags:
 
 links:
-- name: "IDEAS RePEc"
-  url: "https://ideas.repec.org/p/wil/wileco/2017-05.html"
-- name: "PDF"
-  url: "https://web.williams.edu/Economics/wp/ChenPhelanMacroprudentialPolicy_Nov2018.pdf"
+# - name: "IDEAS RePEc"
+#   url: "https://ideas.repec.org/p/wil/wileco/2017-05.html"
+# - name: "PDF"
+#   url: "https://web.williams.edu/Economics/wp/ChenPhelanMacroprudentialPolicy_Nov2018.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
