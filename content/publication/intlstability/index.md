@@ -4,13 +4,13 @@ authors:
 - admin
 - Gregory Phelan
 date: "2021-07-20T00:00:00Z"
-# doi: "https://doi.org/10.1016/j.jde.2018.04.009"
+doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 # featured: true
 
 # Publication name and optional abbreviated publication name.
