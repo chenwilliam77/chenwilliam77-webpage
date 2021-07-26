@@ -28,6 +28,8 @@ links:
 #   url: "https://ideas.repec.org/p/wil/wileco/2017-05.html"
 # - name: "PDF"
 #   url: "https://web.williams.edu/Economics/wp/ChenPhelanMacroprudentialPolicy_Nov2018.pdf"
+- name: "code"
+  url: "https://github.com/chenwilliam77/ChenPhelan2021JFS"
 url_code: ''
 url_dataset: ''
 url_poster: ''
