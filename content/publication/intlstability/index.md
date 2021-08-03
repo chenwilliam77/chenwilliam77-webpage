@@ -24,12 +24,12 @@ abstract: Lack of coordination for prudential regulation hurts developing econom
 tags:
 
 links:
-# - name: "IDEAS RePEc"
-#   url: "https://ideas.repec.org/p/wil/wileco/2017-05.html"
 - name: "PDF"
   url: "https://www.sciencedirect.com/science/article/pii/S1572308921000899"
-- name: "code"
+- name: "Code"
   url: "https://github.com/chenwilliam77/ChenPhelan2021JFS"
+# - name: "IDEAS RePEc"
+#   url: "https://ideas.repec.org/p/wil/wileco/2017-05.html"
 url_code: ''
 url_dataset: ''
 url_poster: ''
