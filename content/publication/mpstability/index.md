@@ -3,7 +3,7 @@ title: "Should Monetary Policy Target Financial Stability?"
 authors:
 - admin
 - Gregory Phelan
-date: "2020-09-12T00:00:00Z"
+date: "2021-08-03T00:00:00Z"
 # doi:
 
 # Publication type.
@@ -17,7 +17,7 @@ featured: true
 # publication: "*Journal of Differential Equations*"
 # publication_short: ""
 
-abstract: We theoretically investigate the state-dependent effects of monetary policy on aggregate stability. In the model, banks borrow using deposits and invest in productive projects, and monetary policy affects risk-premia. Because banks do not actively issue equity, aggregate outcomes depend on the level of equity in the financial sector and equilibrium is inefficient. Monetary policy can improve household welfare by affecting banks' leverage decisions and the rate of bank equity growth. A Fed Put is ex-ante stabilizing, decreasing volatility and the likelihood of crises; it does not lead to excessive leverage in good times but enables higher leverage in bad times.
+abstract: Monetary policy can promote financial stability and improve household welfare. We consider a macro model with a financial sector in which banks do not actively issue equity, output and growth depend on the aggregate level of bank equity, and equilibrium is inefficient. Monetary policy rules responding to the financial sector are ex-ante stabilizing because their effects on risk premia decrease the likelihood of crises and boost leverage during downturns. Stability gains from monetary policy increase welfare whenever macroprudential policy is poorly targeted. If macroprudential policy is sufficiently well-targeted to promote financial stability, then monetary policy should not target financial stability.
 # Summary. An optional shortened abstract.
 #summary:
 
@@ -31,9 +31,9 @@ tags:
 
 links:
 - name: "IDEAS RePEc"
-  url: "https://ideas.repec.org/p/wil/wileco/2020-01.html"
+  url: "https://ideas.repec.org/p/wil/wileco/2021-12.html"
 - name: "PDF"
-  url: "https://web.williams.edu/Economics/wp/ChenPhelanMonetaryPolicyStability042020.pdf"
+  url: "https://unbound.williams.edu/facultypublications/islandora/object/economicsworkingpapers:44"
 url_code: ''
 url_dataset: ''
 url_poster: ''

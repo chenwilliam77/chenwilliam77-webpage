@@ -1,9 +1,9 @@
 ---
-title: "Liquidity Provision and Financial Stability (draft soon)"
+title: "Liquidity Provision and Financial Stability"
 authors:
 - admin
 - Greg Phelan
-date: "2020-04-02T00:00:00Z"
+date: "2021-08-03T00:00:00Z"
 # doi: "https://doi.org/10.1016/j.jde.2018.04.009"
 
 # Publication type.
@@ -17,13 +17,17 @@ featured: true
 # publication: "*Journal of Differential Equations*"
 # publication_short: ""
 
-abstract: When banks’ key characteristic is provision of liquidity through their liabilities, with fi- nancial frictions the banking sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Subsidizing bank dividends improves welfare by encouraging earlier payout and decreasing aggregate equity in the financial sector. This policy increases the likelihood that banks provide more liquidity and improves the stability of the economy, even though asset prices fall.
+abstract: When financial intermediaries’ key characteristic is provision of liquidity through their liabilities, with financial frictions the financial sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Aggregate household welfare is therefore decreasing in the level of aggregate intermediary equity even though the individual value of intermediaries is increasing in equity, which is why intermediaries over-accumulate equity. Subsidizing intermediary dividends can improve welfare by encouraging earlier payout and decreasing aggregate equity in the financial sector. This policy increases the likelihood that intermediaries provide more liquidity and improves the stability of the economy, even though asset prices fall.
 # Summary. An optional shortened abstract.
 # summary:
 
 tags:
 
 links:
+- name: "IDEAS RePEc"
+  url: "https://ideas.repec.org/p/wil/wileco/2021-11.html"
+- name: "PDF"
+  url: "https://unbound.williams.edu/facultypublications/islandora/object/economicsworkingpapers:43"
 url_code: ''
 url_dataset: ''
 url_poster: ''
