@@ -23,8 +23,8 @@ bio: I am a Ph.D. student in Economics at [MIT](https://economics.mit.edu/). I a
 interests:
   - Macroeconomics
   - Finance
-  - Macro-Labor
-  - Computational Macroeconomics
+  - Labor
+  - Computational
 
 education:
   courses:
