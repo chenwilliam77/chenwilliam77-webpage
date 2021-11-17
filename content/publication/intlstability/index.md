@@ -2,7 +2,7 @@
 title: "International Coordination of Macroprudential Policies with Capital Flows and Financial Asymmetries"
 authors:
 - admin
-- Gregory Phelan
+- [Gregory Phelan](https://sites.google.com/site/gregoryphelan/)
 date: "2021-07-20T00:00:00Z"
 doi: ""
 
