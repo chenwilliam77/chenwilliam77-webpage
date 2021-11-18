@@ -2,7 +2,7 @@
 title: "Liquidity Provision and Financial Stability"
 authors:
 - admin
-- Greg Phelan
+- Gregory Phelan
 date: "2021-08-03T00:00:00Z"
 # doi: "https://doi.org/10.1016/j.jde.2018.04.009"
 
