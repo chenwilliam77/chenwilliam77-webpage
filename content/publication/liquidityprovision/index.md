@@ -10,14 +10,15 @@ date: "2021-08-03T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 featured: true
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Differential Equations*"
-# publication_short: ""
+publication: "*Journal of Money, Credit, and Banking*, accepted"
+publication_short: ""
 
-abstract: When financial intermediaries’ key characteristic is provision of liquidity through their liabilities, with financial frictions the financial sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Aggregate household welfare is therefore decreasing in the level of aggregate intermediary equity even though the individual value of intermediaries is increasing in equity, which is why intermediaries over-accumulate equity. Subsidizing intermediary dividends can improve welfare by encouraging earlier payout and decreasing aggregate equity in the financial sector. This policy increases the likelihood that intermediaries provide more liquidity and improves the stability of the economy, even though asset prices fall.
+abstract:
+When financial intermediaries’ key characteristic is provision of liquidity through their liabilities, with financial frictions the financial sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Aggregate household welfare is therefore decreasing in the level of aggregate intermediary equity even though the individual value of intermediaries is increasing in equity, which is why intermediaries overaccumulate equity. Subsidizing intermediary dividends can improve welfare by encouraging earlier payout and decreasing aggregate equity in the financial sector. This policy increases the likelihood that intermediaries provide more liquidity and improves the stability of the economy, even though asset prices fall.
 # Summary. An optional shortened abstract.
 # summary:
 
