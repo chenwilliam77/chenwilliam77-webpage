@@ -17,8 +17,7 @@ featured: true
 publication: "*Journal of Money, Credit, and Banking*, accepted"
 publication_short: ""
 
-abstract:
-When financial intermediaries’ key characteristic is provision of liquidity through their liabilities, with financial frictions the financial sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Aggregate household welfare is therefore decreasing in the level of aggregate intermediary equity even though the individual value of intermediaries is increasing in equity, which is why intermediaries overaccumulate equity. Subsidizing intermediary dividends can improve welfare by encouraging earlier payout and decreasing aggregate equity in the financial sector. This policy increases the likelihood that intermediaries provide more liquidity and improves the stability of the economy, even though asset prices fall.
+abstract: When financial intermediaries’ key characteristic is provision of liquidity through their liabilities, with financial frictions the financial sector in the aggregate is likely to over-accumulate equity, thus decreasing liquidity provision and household welfare. Aggregate household welfare is therefore decreasing in the level of aggregate intermediary equity even though the individual value of intermediaries is increasing in equity, which is why intermediaries overaccumulate equity. Subsidizing intermediary dividends can improve welfare by encouraging earlier payout and decreasing aggregate equity in the financial sector. This policy increases the likelihood that intermediaries provide more liquidity and improves the stability of the economy, even though asset prices fall.
 # Summary. An optional shortened abstract.
 # summary:
 
