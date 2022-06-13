@@ -34,6 +34,8 @@ links:
   url: "https://ideas.repec.org/p/wil/wileco/2021-12.html"
 - name: "PDF"
   url: "https://unbound.williams.edu/facultypublications/islandora/object/economicsworkingpapers:44"
+- name: "Code"
+  url: "https://github.com/chenwilliam77/ChenPhelan2022RED"
 url_code: ''
 url_dataset: ''
 url_poster: ''
