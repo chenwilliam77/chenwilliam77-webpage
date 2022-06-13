@@ -3,29 +3,29 @@ title: "Should Monetary Policy Target Financial Stability?"
 authors:
 - admin
 - Gregory Phelan
-date: "2021-08-03T00:00:00Z"
+date: "2022-06-12T00:00:00Z"
 # doi:
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 featured: true
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Differential Equations*"
-# publication_short: ""
+publication: "*Review of Economic Dynamics*"
+publication_short: ""
 
 abstract: Monetary policy can promote financial stability and improve household welfare. We consider a macro model with a financial sector in which banks do not actively issue equity, output and growth depend on the aggregate level of bank equity, and equilibrium is inefficient. Monetary policy rules responding to the financial sector are ex-ante stabilizing because their effects on risk premia decrease the likelihood of crises and boost leverage during downturns. Stability gains from monetary policy increase welfare whenever macroprudential policy is poorly targeted. If macroprudential policy is sufficiently well-targeted to promote financial stability, then monetary policy should not target financial stability.
 # Summary. An optional shortened abstract.
 #summary:
 
 tags:
-- Monetary policy
+- Central bank mandate
 - Leaning against the wind
-- Financial stability
-- Macroeconomic instability
+- Fed Put
+- Macroprudential policy
 - Banks
 - Liquidity
 
