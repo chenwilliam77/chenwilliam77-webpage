@@ -30,12 +30,12 @@ tags:
 - Liquidity
 
 links:
-- name: "IDEAS RePEc"
-  url: "https://ideas.repec.org/p/wil/wileco/2021-12.html"
-- name: "PDF"
-  url: "https://unbound.williams.edu/facultypublications/islandora/object/economicsworkingpapers:44"
+- name: "Article"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S1094202522000436"
 - name: "Code"
   url: "https://github.com/chenwilliam77/ChenPhelan2022RED"
+# - name: "IDEAS RePEc"
+#   url: "https://ideas.repec.org/p/wil/wileco/2021-12.html"
 url_code: ''
 url_dataset: ''
 url_poster: ''
