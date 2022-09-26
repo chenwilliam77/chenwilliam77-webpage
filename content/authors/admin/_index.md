@@ -68,8 +68,10 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in Economics at [MIT](https://economics.mit.edu/). I am also a former Senior Research Analyst of the DSGE Team at the [Federal Reserve Bank of New York](https://www.newyorkfed.org/research).  My research focuses on the determinants of business cycles, such as the role of the financial system in the propagation of macroeconomic shocks, and the capacity of monetary and macroprudential policies to address inefficient recessions. I investigate these problems using both theoretical and structural approaches. I also develop new computational methods to expand the range of problems macroeconomists can study, such as models with heterogeneous agents and/or nonlinearities.
+I am no longer maintaining this website. Please see my [profile at the MIT Economics department webpage](https://economics.mit.edu/people/phd-students/william-chen)
 
-Aside from research, I develop [RiskAdjustedLinearizations.jl](https://github.com/chenwilliam77/RiskAdjustedLinearizations.jl), which linearizes dynamic economic models around the stochastic steady state. I am a former lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions.
+# I am a Ph.D. student in Economics at [MIT](https://economics.mit.edu/). I am also a former Senior Research Analyst of the DSGE Team at the [Federal Reserve Bank of New York](https://www.newyorkfed.org/research).  My research focuses on the determinants of business cycles, such as the role of the financial system in the propagation of macroeconomic shocks, and the capacity of monetary and macroprudential policies to address inefficient recessions. I investigate these problems using both theoretical and structural approaches. I also develop new computational methods to expand the range of problems macroeconomists can study, such as models with heterogeneous agents and/or nonlinearities.
 
-Pronouns: he/him
+# Aside from research, I develop [RiskAdjustedLinearizations.jl](https://github.com/chenwilliam77/RiskAdjustedLinearizations.jl), which linearizes dynamic economic models around the stochastic steady state. I am a former lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions.
+
+# Pronouns: he/him
